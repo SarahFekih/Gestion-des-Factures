@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.gestionfactures.packages",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "gestionfactures",
+    "packageName": "com.gestionfactures.packages",
+    "packageFolder": "com/gestionfactures/packages",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGM2YTA1Y2ZkZDgzMmRhNzc0Yzg1MjM0ZDMzMGYxZmUzNTkxMjdiYjdmZjYzOGIzN2FhMGJhNzliZTkyODNjNjU1ODIwY2ZhYzFkYzRhODk5NjdjNjdlOTc4NTEyNjAwOTI4MWZiMzY4MWMxODAzZjdkZWYzYzQ5ZGJjYjhkZGM=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "fr"]
+  }
+}
